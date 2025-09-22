@@ -14,6 +14,14 @@ Welcome to the **Task Distribution Management System** - a full-stack web applic
 
 ---
 
+## 🌐 Live Deployment
+
+### 🚀 Application URLs
+- **Frontend Application**: [https://csinfotechassignment.vercel.app/login](https://csinfotechassignment.vercel.app/login)
+- **Backend API**: [https://csinfotechassignment.onrender.com](https://csinfotechassignment.onrender.com)
+
+> **Note**: The backend may take a few moments to wake up on first request due to Render's free tier sleep mode.
+
 ## 🏗️ Architecture Overview
 
 The application follows a **modern full-stack architecture** with clear separation of concerns:
