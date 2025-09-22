@@ -673,5 +673,4 @@ Tools: Multer, XLSX, CSV-Parser, bcryptjs
 ```
 
 ---
-
-*This documentation was created to provide a complete understanding of the Task Distribution Management System. For any questions or clarifications, please refer to the code comments or reach out to the development team.*
+Thankyou ❤️
